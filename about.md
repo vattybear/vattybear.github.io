@@ -1,4 +1,6 @@
-# About
+#Hi! I am Ganesh. Pleased to meet you...
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+I am a technologist currently focused on Cloud technologies and have been a geek leading technology projects for couple of decades.
+
+You can find a lot more about me on my [LinkedIn Profile](https://linkedin.com/in/madrasi) and follow me via [Twitter](https://twitter.com/vattybear).
 
