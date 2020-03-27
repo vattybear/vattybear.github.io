@@ -7,11 +7,10 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Ganesh's Blog
-description: Ganesh's Blog
+description: Random posts by Ganesh - hope you enjoy it!
 github_username: vattybear
 
 # Email and twitter are optional:
-email: 
 twitter_username: vattybear
 
 # Set this to true to get LaTeX math equation support
